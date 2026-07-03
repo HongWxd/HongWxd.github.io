@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weixiang HONG"
   avatar           : "images/1.jpg"
-  bio              : "AI4Battery"
+  bio              : "AI4Batteries"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "HongWxd"
   google_plus      :
   keybase          :
   instagram        :
