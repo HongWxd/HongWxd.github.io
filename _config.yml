@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weixiang HONG"
-description              : "PhD Student in Sustainable Energy and Environmental, HKUST(GZ)"
+description              : "PhD Student in Sustainable Energy and Environmental"
 repository               : "HongWxd/HongWxd.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/1.jpg"
   bio              : "AI4Battery"
   location         : "Guangzhou, China"
-  employer         :
+  employer         : "HKUST(GZ)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=20HOHGYAAAAJ"
   email            : "whong719@connect.hkust-gz.edu.cn"
