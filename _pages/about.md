@@ -19,7 +19,7 @@ redirect_from:
 
 I am the second year PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Jiaqiang HUANG](https://seejhuang.people.ust.hk/) and [Prof. Jia LI](https://sites.google.com/view/lijia). Previously, I obtained my B.Eng. in Computer Science and Technology from Dalian Maritime Univerity in 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=20HOHGYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+My research interest includes AI for batteries, electrolyte optimization, and battery life prediction.
 
 
 # 🔥 News
