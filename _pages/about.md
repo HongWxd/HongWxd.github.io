@@ -106,7 +106,7 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 
 # 📖 Educations
 - *2024.09 - now*, PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology. 
-- *2020.09 - 2024.06*, Undergraduate student at the Information Science and Technology College of Dalian Maritime University. 
+- *2020.09 - 2024.06*, Undergraduate student at the Information Science and Technology College of Dalian Maritime University, Comprehensive ranking: 1/103. 
 
 # 💬 Invited Talks
 - None.
