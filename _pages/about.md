@@ -30,16 +30,12 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/BatteryLife.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](https://dl.acm.org/doi/10.1145/3711896.3737372)
-
 Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
-
 **Project Links**
-- [Github](https://github.com/Ruifeng-Tan/BatteryLife) stars ⭐: 293
+- [Github](https://github.com/Ruifeng-Tan/BatteryLife): 293 ⭐
 - [Huggingface](https://huggingface.co/Battery-Life)
 - [Zenodo](https://zenodo.org/records/21149533)
-
 </div>
 </div>
 
