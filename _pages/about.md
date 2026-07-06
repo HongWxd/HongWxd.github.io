@@ -27,9 +27,8 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 
 # 📝 Publications 
-<sup>*</sup>: These authors contributed equally
-
-<sup>†</sup>: Corresponding author
+<sup>*</sup>: These authors contributed equally.
+<sup>†</sup>: Corresponding author.
 
 ## 🔋📈 Battery Life Prediction
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/BatteryLife1.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
