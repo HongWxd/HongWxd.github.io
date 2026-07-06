@@ -31,7 +31,7 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 # 📝 Publications 
 <sup>*</sup>: These authors contributed equally.
-
+ 
 <sup>†</sup>: Corresponding author.
 
 ## 🔋📈 Battery Life Prediction
