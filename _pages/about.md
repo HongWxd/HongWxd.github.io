@@ -93,7 +93,7 @@ Available on: ArXiv.
 </div>
 
 # 📜 Patents
-
+- None.
 
 # 🎖 Honors and Awards
 ## Underguaduate
