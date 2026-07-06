@@ -94,7 +94,6 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 
 
 # 🎖 Honors and Awards
-- *2021.06* Second Prize in the Non-Mathematics Major Group of the 26th Mathematics Competition at DLMU. 
 - *20224.04* Honorary Title of “The outstanding graduates of Liaoning Provincial Universities in 2024” at DLMU.
 - *2022-2023 Academic year* Emotional Intelligence Scholarship at DLMU.
 - *2022-2023 Academic year* First Prize of “Merchant Ships Scholarship” at DLMU.
