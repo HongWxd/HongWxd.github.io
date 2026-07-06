@@ -25,7 +25,8 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.05*: 🎉 One paper is accepted by KDD (CCF A).
+- *2025.05*: 🎉 One paper is accepted by KDD (CCF A).
 
 
 # 📝 Publications 
