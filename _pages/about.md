@@ -22,8 +22,8 @@ I am the second year PhD student at the Sustainable Energy and Environment Thrus
 My research interest includes AI for batteries, electrolyte optimization, and battery life prediction.
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 # 📝 Publications 
@@ -34,6 +34,7 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/BatteryLife1.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](https://dl.acm.org/doi/10.1145/3711896.3737372)
+
 Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
 
 **Project Links**
@@ -46,6 +47,7 @@ Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, R
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2026</div><img src='images/BatteryMFormer.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting](https://arxiv.org/pdf/2605.27044)
+
 Ruifeng Tan<sup>*</sup>, Jintao Dong<sup>*</sup>, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
 </div>
 </div>
@@ -53,6 +55,7 @@ Ruifeng Tan<sup>*</sup>, Jintao Dong<sup>*</sup>, **Weixiang Hong**, Jia Li<sup>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2026</div><img src='images/PBT.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/pdf/2512.16334)
+
 Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
 </div>
 </div>
@@ -61,7 +64,8 @@ Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</su
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 26th International Conference on Software Engineering and Knowledge Engineering, 2024</div><img src='images/SEKE20242.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Just-In-Time Defect Prediction Based on Double-Source Input Self-Attention Mechanism](https://ksiresearchorg.ipage.com/seke/seke24paper/paper115.pdf)
-**Weixiang HONG**, Yi Wu, , Hui Li, Shikai Guo<sup>†</sup>
+
+**Weixiang HONG**, Yi Wu, Hui Li, Shikai Guo<sup>†</sup>
 </div>
 </div>
 
