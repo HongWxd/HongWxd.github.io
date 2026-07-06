@@ -64,19 +64,6 @@ Publish in: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2026</div><img src='images/PBT.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
-<div class='paper-box-text' markdown="1">
-[Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/pdf/2512.16334)
-
-Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
-
-Available on: ArXiv.
-
-**Project Links**
-- [GitHub](https://github.com/Ruifeng-Tan/PBT)
-</div>
-</div>
-
 ## 💻 Software Engineering
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEKE, 2024</div><img src='images/SEKE20242.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -91,6 +78,19 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 </div>
 </div>
 
+## 📄 Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2026</div><img src='images/PBT.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/pdf/2512.16334)
+
+Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
+
+Available on: ArXiv.
+
+**Project Links**
+- [GitHub](https://github.com/Ruifeng-Tan/PBT)
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
