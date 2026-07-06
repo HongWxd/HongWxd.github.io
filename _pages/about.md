@@ -28,6 +28,7 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 # 📝 Publications 
 <sup>*</sup>: These authors contributed equally.
+
 <sup>†</sup>: Corresponding author.
 
 ## 🔋📈 Battery Life Prediction
@@ -76,8 +77,8 @@ Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</su
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2020.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2020.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology. 
+- *2020.09 - 2024.06*, Undergraduate student at the Information Science and Technology College of Dalian Maritime University. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
