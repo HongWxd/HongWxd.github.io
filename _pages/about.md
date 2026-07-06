@@ -34,6 +34,7 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 <sup>†</sup>: Corresponding author.
 
 ## 🔋📈 Battery Life Prediction
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/BatteryLife1.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](https://dl.acm.org/doi/10.1145/3711896.3737372)
@@ -71,6 +72,7 @@ Available on: ArXiv.
 </div>
 
 ## 💻 Software Engineering
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEKE, 2024</div><img src='images/SEKE20242.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Just-In-Time Defect Prediction Based on Double-Source Input Self-Attention Mechanism](https://ksiresearchorg.ipage.com/seke/seke24paper/paper115.pdf)
