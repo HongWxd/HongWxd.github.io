@@ -92,6 +92,8 @@ Available on: ArXiv.
 </div>
 </div>
 
+# 📜 Patents
+
 
 # 🎖 Honors and Awards
 ## Underguaduate
