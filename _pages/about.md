@@ -27,6 +27,8 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 
 # 📝 Publications 
+<sup>*</sup>: These authors contributed equally
+<sup>†</sup>: Corresponding author
 
 ## 🔋📈 Battery Life Prediction
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/BatteryLife1.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
@@ -56,10 +58,10 @@ Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</su
 </div>
 
 ## 💻 Software Engineering
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 26th International Conference on Software Engineering and Knowledge Engineering, 2024</div><img src='images/SEKE2024.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 26th International Conference on Software Engineering and Knowledge Engineering, 2024</div><img src='images/SEKE20242.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Just-In-Time Defect Prediction Based on Double-Source Input Self-Attention Mechanism](https://ksiresearchorg.ipage.com/seke/seke24paper/paper115.pdf)
-Ruifeng Tan<sup>*</sup>, Jintao Dong<sup>*</sup>, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
+**Weixiang HONG**, Yi Wu, , Hui Li, Shikai Guo, <sup>†</sup>
 </div>
 </div>
 
