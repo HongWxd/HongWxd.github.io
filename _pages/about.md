@@ -115,8 +115,8 @@ Available on: ArXiv.
 - *2020-2021 Academic Year* Honorary Title of “Outstanding Individual in Semi-Military Management” at DLMU. 
 
 # 📖 Educations
-- *2024.09 - now*, PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology. 
-- *2020.09 - 2024.06*, Undergraduate student at the Information Science and Technology College of Dalian Maritime University, Comprehensive ranking: 1/103. 
+- <img src="{{ '/images/hkustgz.png' | relative_url }}" width="22" style="vertical-align: middle; margin-right: 6px;"> *2024.09 - now*, PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology. 
+- <img src="{{ '/images/dmu.svg' | relative_url }}" width="22" style="vertical-align: middle; margin-right: 6px;"> *2020.09 - 2024.06*, Undergraduate student at the Information Science and Technology College of Dalian Maritime University, Comprehensive ranking: 1/103. 
 
 # 💬 Invited Talks
 - None.
