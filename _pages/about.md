@@ -35,7 +35,7 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 <sup>†</sup>: Corresponding author.
 
 ## 🔋📈 Battery Life Prediction
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/BatteryLife1.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/BatteryLife1.png' alt="sym" style="width:100%; max-width:400px; height:auto; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](https://dl.acm.org/doi/10.1145/3711896.3737372)
 
@@ -50,7 +50,7 @@ Publish in: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2026</div><img src='images/BatteryMFormer.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2026</div><img src='images/BatteryMFormer.png' alt="sym" style="width:100%; max-width:400px; height:auto; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting](https://arxiv.org/pdf/2605.27044)
 
@@ -65,7 +65,7 @@ Publish in: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery
 </div>
 
 ## 💻 Software Engineering
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEKE, 2024</div><img src='images/SEKE20242.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SEKE, 2024</div><img src='images/SEKE20242.png' alt="sym" style="width:100%; max-width:400px; height:auto; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Just-In-Time Defect Prediction Based on Double-Source Input Self-Attention Mechanism](https://ksiresearchorg.ipage.com/seke/seke24paper/paper115.pdf)
 
@@ -79,13 +79,7 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 </div>
 
 ## 📄 Preprints
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ArXiv, 2026</div>
-      <img src='images/PBT.png' alt="sym" class="paper-img">
-    </div>
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2026</div><img src='images/PBT.png' alt="sym" style="width:100%; max-width:400px; height:auto; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/pdf/2512.16334)
 
