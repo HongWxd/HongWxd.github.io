@@ -37,9 +37,9 @@ Ruifeng Tan*, **Weixiang Hong***, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng,
 
 [**Project Link**](https://github.com/Ruifeng-Tan/BatteryLife)
 
-- Github stars:
+- Github stars ⭐:
 <strong>
-  <span id="batterylife-stars"> loading... ⭐</span>
+  <span id="batterylife-stars"> loading... </span>
 </strong>
 
 <script>
@@ -61,11 +61,11 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       const stars = data.stargazers_count;
       document.getElementById("batterylife-stars").textContent =
-        `★ ${stars.toLocaleString()}`;
+        `${stars.toLocaleString()}`;
     })
     .catch(error => {
       console.error(error);
-      document.getElementById("batterylife-stars").textContent = "★";
+      document.getElementById("batterylife-stars").textContent = "";
     });
 });
 </script>
