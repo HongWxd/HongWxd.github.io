@@ -27,7 +27,7 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/BatteryLife1.png' alt="sym" style="width:500px; height:300px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/BatteryLife1.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](https://dl.acm.org/doi/10.1145/3711896.3737372)
 Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
@@ -39,14 +39,14 @@ Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, R
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/PBT.png' alt="sym" style="width:500px; height:300px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2026</div><img src='images/PBT.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://dl.acm.org/doi/10.1145/3711896.3737372)
 Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/BatteryMFormer.png' alt="sym" style="width:500px; height:300px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/BatteryMFormer.png' alt="sym" style="width:400px; height:250px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting](https://dl.acm.org/doi/10.1145/3711896.3737372)
 Ruifeng Tan<sup>*</sup>, Jintao Dong<sup>*</sup>, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
