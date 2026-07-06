@@ -85,4 +85,7 @@ Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</su
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.02 - 2024.05*, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.
+- *2023.10 - 2023.12*, Algorithm Engineer, Dalian Qingyang Zhicheng Technology Co., Ltd., Dalian, China.
+- *2023.09 - 2023.10*, Large language model Intern, Microfeel (Nanjing) Digital Technology Co., Ltd., Remote.
+- *2023.07 - 2023.08*, Software Engineer, Fujian Electronic Port Co., Ltd., Ltd. Xiamen Branch., Xiamen, China.
