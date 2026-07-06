@@ -44,7 +44,7 @@ Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, R
 Publish in: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2.
 
 **Project Links**
-- [Github](https://github.com/Ruifeng-Tan/BatteryLife): 293 ⭐
+- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 293 ⭐
 - [Huggingface](https://huggingface.co/Battery-Life)
 - [Zenodo](https://zenodo.org/records/21149533)
 </div>
@@ -58,6 +58,9 @@ Ruifeng Tan<sup>*</sup>, Jintao Dong<sup>*</sup>, **Weixiang Hong**, Jia Li<sup>
 
 Publish in: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
 
+**Project Links**
+- [GitHub](https://github.com/Ruifeng-Tan/BatteryMFormer)
+
 </div>
 </div>
 
@@ -68,6 +71,9 @@ Publish in: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery
 Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
 
 Available on: ArXiv.
+
+**Project Links**
+- [GitHub](https://github.com/Ruifeng-Tan/PBT)
 </div>
 </div>
 
@@ -80,6 +86,9 @@ Available on: ArXiv.
 **Weixiang HONG**, Yi Wu, Hui Li, Shikai Guo<sup>†</sup>
 
 Publish in: The 26th International Conference on Software Engineering and Knowledge Engineering.
+
+**Project Links**
+- [GitHub](https://github.com/HongWxd/MCSA-JIT)
 </div>
 </div>
 
