@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weixiang HONG"
-description              : "PhD Student in Sustainable Energy and Environment Thrust"
+description              : "PhD Student in HKUST(GZ)."
 repository               : "HongWxd/HongWxd.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weixiang HONG"
   avatar           : "images/1.jpg"
-  bio              : "AI4Batteries, HKUST(GZ)"
+  bio              : "Focusing on AI4Batteries, Electrolyte Oprimization, and Battery Life Prediction."
   location         : "Guangzhou, China"
   employer         : 
   pubmed           : 
