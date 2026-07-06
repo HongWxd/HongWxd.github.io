@@ -36,41 +36,9 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
 
 [**Project Links**](https://github.com/Ruifeng-Tan/BatteryLife)
-
-- Github stars ⭐:
-<strong>
-  <span id="batterylife-stars"> loading... </span>
-</strong>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const repo = "Ruifeng-Tan/BatteryLife";
-  const apiUrl = `https://api.github.com/repos/${repo}`;
-
-  fetch(apiUrl, {
-    headers: {
-      "Accept": "application/vnd.github+json"
-    }
-  })
-    .then(response => {
-      if (!response.ok) {
-        throw new Error("GitHub API request failed");
-      }
-      return response.json();
-    })
-    .then(data => {
-      const stars = data.stargazers_count;
-      document.getElementById("batterylife-stars").textContent =
-        `${stars.toLocaleString()}`;
-    })
-    .catch(error => {
-      console.error(error);
-      document.getElementById("batterylife-stars").textContent = "";
-    });
-});
-</script>
-- Huggingface
-- Zenodo
+- Github stars ⭐: 293
+- [Huggingface](https://huggingface.co/Battery-Life)
+- [Zenodo](https://zenodo.org/records/21149533)
 
 
 </div>
