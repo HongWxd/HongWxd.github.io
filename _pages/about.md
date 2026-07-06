@@ -84,8 +84,25 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06* Second Prize in the Non-Mathematics Major Group of the 26th Mathematics Competition at DLMU. 
+- *20224.04* Honorary Title of “The outstanding graduates of Liaoning Provincial Universities in 2024” at DLMU.
+- *2022-2023 Academic year* Emotional Intelligence Scholarship at DLMU.
+- *2022-2023 Academic year* First Prize of “Merchant Ships Scholarship” at DLMU.
+- *2022-2023 Academic year* Honorary Title of “Merit Student” at DLMU.
+- *2023.08* Provincial Second Prize, The 16th “Challenge Cup” Liaoning Provincial College Students Extracurricular Academic and Technological Works Competition.
+- *2023.07* Provincial First Prize, Liaoning District, Chinese University Student Computer Design Competition.
+- *2023.07* Provincial Third Prize, Task Application Track, 2023 RoboCom World Robot Developer Contest.
+- *2023.05* National Third Prize, “Jingye Da Cup” 18th National College Student Transportation Science and Technology Competition.
+- *2021-2022 Academic year* Second Prize in the Non-Mathematics Major Group of the 26th Mathematics Competition at DLMU. 
+- *2021-2022 Academic year* Second Prize of “Merchant Ships Scholarship” at DLMU.
+- *2021-2022 Academic year* Honorary Title of “Outstanding Student Cadre” at DLMU.
+- *2021-2022 Academic year* Honorary Title of “Outstanding Student Cadre in Semi-Military Management” at DLMU. 
+- *2020-2022 Academic year* “Excellent Team Member” of the Flag Guard Team at DLMU. 
+- *2021.12* Provincial Second Prize in the 1st Intercollegiate Innovative Method Knowledge Learning and Application Competition. 
+- *2021.10* Yida Scholarship. 
+- *2021.06* Emotional Intelligence Scholarship at DLMU. 
+- *2021.06* Second Prize in the Non-Mathematics Major Group of the 26th Mathematics Competition at DLMU. 
+- *2020-2021 Academic Year* Honorary Title of “Outstanding Individual in Semi-Military Management” at DLMU. 
 
 # 📖 Educations
 - *2024.09 - now*, PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology. 
@@ -93,6 +110,7 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 
 # 💬 Invited Talks
 - None.
+
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 

@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weixiang HONG"
   avatar           : "images/1.jpg"
-  bio              : "AI4Batteries"
+  bio              : "AI4Batteries, HKUST(GZ)"
   location         : "Guangzhou, China"
-  employer         : "HKUST(GZ)"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=20HOHGYAAAAJ"
   email            : "whong719@connect.hkust-gz.edu.cn"
