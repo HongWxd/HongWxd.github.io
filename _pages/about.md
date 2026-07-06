@@ -94,6 +94,7 @@ Available on: ArXiv.
 
 
 # 🎖 Honors and Awards
+## Underguaduate
 - *20224.04* Honorary Title of “The outstanding graduates of Liaoning Provincial Universities in 2024” at DLMU.
 - *2022-2023 Academic year* Emotional Intelligence Scholarship at DLMU.
 - *2022-2023 Academic year* First Prize of “Merchant Ships Scholarship” at DLMU.
