@@ -37,53 +37,7 @@ Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, R
 
 [**Project Links**](https://github.com/Ruifeng-Tan/BatteryLife)
 - Github stars ⭐: 293
-- Hugging Face downloads: <span id="hf-downloads">loading...</span>
-<script>
-async function updateHFDownloads() {
-  const org = "Battery-Life";
-  let url = `https://huggingface.co/api/datasets?author=${encodeURIComponent(org)}&full=true`;
-
-  let totalDownloads = 0;
-  let datasetCount = 0;
-
-  function getNextUrl(linkHeader) {
-    if (!linkHeader) return null;
-    const match = linkHeader.match(/<([^>]+)>;\s*rel="next"/);
-    return match ? match[1] : null;
-  }
-
-  try {
-    while (url) {
-      const response = await fetch(url, {
-        headers: {
-          "Accept": "application/json"
-        }
-      });
-
-      if (!response.ok) {
-        throw new Error("Failed to fetch Hugging Face dataset info");
-      }
-
-      const datasets = await response.json();
-
-      datasets.forEach(ds => {
-        totalDownloads += ds.downloads || 0;
-        datasetCount += 1;
-      });
-
-      url = getNextUrl(response.headers.get("Link"));
-    }
-
-    document.getElementById("hf-downloads").textContent =
-      totalDownloads.toLocaleString() + ` across ${datasetCount} datasets`;
-  } catch (error) {
-    console.error(error);
-    document.getElementById("hf-downloads").textContent = "N/A";
-  }
-}
-
-document.addEventListener("DOMContentLoaded", updateHFDownloads);
-</script>
+- [Huggingface](https://huggingface.co/Battery-Life)
 - [Zenodo](https://zenodo.org/records/21149533)
 
 
