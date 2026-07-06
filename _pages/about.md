@@ -24,17 +24,50 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/BatteryLife.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](https://dl.acm.org/doi/10.1145/3711896.3737372)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Ruifeng Tan*, **Weixiang Hong***, Jiayue Tang, Xibin Lu, Ruijun Ma, Xiang Zheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/Ruifeng-Tan/BatteryLife) [**Project**](https://github.com/Ruifeng-Tan/BatteryLife)
+<strong>
+  <span id="batterylife-stars">★ loading...</span>
+</strong>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const repo = "Ruifeng-Tan/BatteryLife";
+  const apiUrl = `https://api.github.com/repos/${repo}`;
+
+  fetch(apiUrl, {
+    headers: {
+      "Accept": "application/vnd.github+json"
+    }
+  })
+    .then(response => {
+      if (!response.ok) {
+        throw new Error("GitHub API request failed");
+      }
+      return response.json();
+    })
+    .then(data => {
+      const stars = data.stargazers_count;
+      document.getElementById("batterylife-stars").textContent =
+        `★ ${stars.toLocaleString()}`;
+    })
+    .catch(error => {
+      console.error(error);
+      document.getElementById("batterylife-stars").textContent = "★";
+    });
+});
+</script>
+
 </div>
 </div>
 
