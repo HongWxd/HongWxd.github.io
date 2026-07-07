@@ -80,7 +80,7 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 </div>
 
 ## 📄 Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2026</div><img src='images/PBT.png' alt="sym" style="width:100%; max-width:400px; height:auto; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2025</div><img src='images/PBT.png' alt="sym" style="width:100%; max-width:400px; height:auto; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/pdf/2512.16334)
 
