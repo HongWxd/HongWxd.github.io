@@ -45,7 +45,7 @@ Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, R
 Publish in: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2.
 
 **Project Links**
-- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 293 ⭐
+- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 295 ⭐
 - [Huggingface](https://huggingface.co/Battery-Life)
 - [Zenodo](https://zenodo.org/records/21149533)
 </div>
