@@ -82,7 +82,7 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 
 ## 📄 Preprints
 
-Pretrained Battery Transformer (PBT): A battery life prediction foundation model. Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>. [[Paper Link](https://arxiv.org/pdf/2512.16334)] | [[Code Link](https://github.com/Ruifeng-Tan/PBT)]
+Pretrained Battery Transformer (PBT): A battery life prediction foundation model. Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>. [[Paper Link](https://arxiv.org/pdf/2512.16334)]
 
 
 
