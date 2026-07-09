@@ -21,17 +21,18 @@ redirect_from:
 
 I am the second year PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Jiaqiang HUANG](https://seejhuang.people.ust.hk/) and [Prof. Jia LI](https://sites.google.com/view/lijia). Previously, I obtained my B.Eng. in Computer Science and Technology from Dalian Maritime Univerity in 2024.
 
-My research interest includes AI for batteries, electrolyte optimization, and battery life prediction.
+My research interest includes AI for batteries, electrolyte optimization, and battery life prediction. So far, I have published 3 journal/conference papers. Total citations: 31.
 
 
 # 🔥 News
 - *2026.05*: 🎉 One paper is accepted by KDD (CCF A).
 - *2025.05*: 🎉 One paper is accepted by KDD (CCF A).
+- *2024.10*: 🎉 One paper is accepted by SEKE (CCF C).
 
 
 # 📝 Publications 
 <sup>*</sup>: These authors contributed equally.
-
+ 
 <sup>†</sup>: Corresponding author.
 
 ## 🔋📈 Battery Life Prediction
@@ -44,7 +45,7 @@ Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, R
 Publish in: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2.
 
 **Project Links**
-- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 293 ⭐
+- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 295 ⭐
 - [Huggingface](https://huggingface.co/Battery-Life)
 - [Zenodo](https://zenodo.org/records/21149533)
 </div>
@@ -91,10 +92,25 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 </div>
 </div>
 
+## 📄 Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2025</div><img src='images/PBT.png' alt="sym" style="width:100%; max-width:400px; height:auto; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/pdf/2512.16334)
 
+Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
+
+Available on: ArXiv.
+ 
+**Project Links**
+- [GitHub](https://github.com/Ruifeng-Tan/PBT)
+</div>
+</div>
+
+# 📜 Patents
+- None.
 
 # 🎖 Honors and Awards
-- *2021.06* Second Prize in the Non-Mathematics Major Group of the 26th Mathematics Competition at DLMU. 
+## Underguaduate
 - *20224.04* Honorary Title of “The outstanding graduates of Liaoning Provincial Universities in 2024” at DLMU.
 - *2022-2023 Academic year* Emotional Intelligence Scholarship at DLMU.
 - *2022-2023 Academic year* First Prize of “Merchant Ships Scholarship” at DLMU.
@@ -115,8 +131,8 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 - *2020-2021 Academic Year* Honorary Title of “Outstanding Individual in Semi-Military Management” at DLMU. 
 
 # 📖 Educations
-- *2024.09 - now*, PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology. 
-- *2020.09 - 2024.06*, Undergraduate student at the Information Science and Technology College of Dalian Maritime University, Comprehensive ranking: 1/103. 
+- <img src="{{ '/images/hkustgz.png' | relative_url }}" width="20" style="vertical-align: middle; margin-right: 6px;"> *2024.09 - now*, PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology. 
+- <img src="{{ '/images/dmu.svg' | relative_url }}" width="22" style="vertical-align: middle; margin-right: 6px;"> *2020.09 - 2024.06*, Undergraduate student at the Information Science and Technology College of Dalian Maritime University, Comprehensive ranking: 1/103. 
 
 # 💬 Invited Talks
 - None.
