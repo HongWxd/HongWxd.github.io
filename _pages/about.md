@@ -45,7 +45,7 @@ Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, R
 Publish in: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2.
 
 **Project Links**
-- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 295 ⭐
+- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 310 ⭐
 - [Huggingface](https://huggingface.co/Battery-Life)
 - [Zenodo](https://zenodo.org/records/21149533)
 </div>
@@ -82,7 +82,7 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 
 ## 📄 Preprints
 
-- Pretrained Battery Transformer (PBT): A battery life prediction foundation model. Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>. [[Paper Link](https://arxiv.org/pdf/2512.16334)]
+- (Under review by EES.) Pretrained Battery Transformer (PBT): A battery life prediction foundation model. Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>. [[Paper Link](https://arxiv.org/pdf/2512.16334)]
 
 
 
