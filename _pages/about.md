@@ -57,7 +57,7 @@ Publish in: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery
 
 Ruifeng Tan<sup>*</sup>, Jintao Dong<sup>*</sup>, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>
 
-Publish in: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
+Publish in: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2.
 
 **Project Links**
 - [GitHub](https://github.com/Ruifeng-Tan/BatteryMFormer)
