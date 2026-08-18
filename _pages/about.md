@@ -21,7 +21,7 @@ redirect_from:
 
 I am the second year PhD student at the Sustainable Energy and Environment Thrust of The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Jiaqiang HUANG](https://seejhuang.people.ust.hk/) and [Prof. Jia LI](https://sites.google.com/view/lijia). Previously, I obtained my B.Eng. in Computer Science and Technology from Dalian Maritime Univerity in 2024.
 
-My research interest includes AI for batteries, electrolyte optimization, and battery life prediction. So far, I have published 3 journal/conference papers. Total citations: 31.
+My research interest includes AI for batteries, electrolyte optimization, and battery life prediction. So far, I have published 3 journal/conference papers. Total citations: 41.
 
 
 # 🔥 News
@@ -45,7 +45,7 @@ Ruifeng Tan<sup>*</sup>, **Weixiang Hong<sup>*</sup>**, Jiayue Tang, Xibin Lu, R
 Publish in: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2.
 
 **Project Links**
-- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 310 ⭐
+- [GitHub](https://github.com/Ruifeng-Tan/BatteryLife): 317 ⭐
 - [Huggingface](https://huggingface.co/Battery-Life)
 - [Zenodo](https://zenodo.org/records/21149533)
 </div>
