@@ -84,7 +84,7 @@ Publish in: The 26th International Conference on Software Engineering and Knowle
 
 - Pretrained Battery Transformer (PBT): A battery life prediction foundation model. Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>. [[Paper Link](https://arxiv.org/pdf/2512.16334)] [[Code Link](https://github.com/Ruifeng-Tan/PBT)]
 
-- Prototype-guided transfer of sparse literature knowledge for electrolyte additive discovery. **Weixiang Hong<sup>*</sup>**, **Hongting Du<sup>*</sup>**, Jiayue Tang, Ruifeng Tan, Yangjian Quan, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>. [[Paper Link](https://arxiv.org/pdf/2609.02209)] [[Code Link](https://github.com/HongWxd/ProtoMI)]
+- Prototype-guided transfer of sparse literature knowledge for electrolyte additive discovery. **Weixiang Hong<sup>*</sup>**, Hongting Du<sup>*</sup>, Jiayue Tang, Ruifeng Tan, Yangjian Quan, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>. [[Paper Link](https://arxiv.org/pdf/2609.02209)] [[Code Link](https://github.com/HongWxd/ProtoMI)]
 
 
 
