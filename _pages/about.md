@@ -38,9 +38,9 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 ## 🔋📈 Battery Life Prediction
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/PBT.png' alt="sym" style="width:250px; height:350px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EES, 2026</div><img src='images/PBT.png' alt="sym" style="width:250px; height:350px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
-[Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/pdf/2512.16334)
+[Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://pubs.rsc.org/ee/article-abstract/doi/10.1039/d6ee03446b/1359241/Pretrained-battery-transformer-PBT-a-foundation)
 
 Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>.
 
