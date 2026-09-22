@@ -25,6 +25,7 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 
 
 # 🔥 News
+- *2026.09*：🎉 One paper is accepted by Energy & Environmental Science.
 - *2026.05*: 🎉 One paper is accepted by KDD (CCF A).
 - *2025.05*: 🎉 One paper is accepted by KDD (CCF A).
 - *2024.10*: 🎉 One paper is accepted by SEKE (CCF C).
@@ -36,6 +37,21 @@ My research interest includes AI for batteries, electrolyte optimization, and ba
 <sup>†</sup>: Corresponding author.
 
 ## 🔋📈 Battery Life Prediction
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/PBT.png' alt="sym" style="width:250px; height:350px; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/pdf/2512.16334)
+
+Ruifeng Tan, **Weixiang Hong**, Jia Li<sup>†</sup>, Jiaqiang Huang<sup>†</sup>, Tong-Yi Zhang<sup>†</sup>.
+
+Publish in: Energy & Environmental Science.
+
+**Project Links**
+- [GitHub](https://github.com/Ruifeng-Tan/PBT)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD, 2025</div><img src='images/BatteryLife2.png' alt="sym" style="width:250px; height:350px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 [BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](https://dl.acm.org/doi/10.1145/3711896.3737372)
